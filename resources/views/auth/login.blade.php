@@ -114,7 +114,7 @@
             </form> 
              
          
-    <center> 
+    <center>  
             <a class="btn btn-link" href="/register">
                 Register
                 </a>
